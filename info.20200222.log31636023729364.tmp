@@ -1,0 +1,366 @@
+2020-02-22 16:31:37,666 ad-dp-active: INFO  -- info                                               -- Windows 7 |  
+2020-02-22 16:31:37,666 ad-dp-active: INFO  -- info                                               -- Windows 7 |  
+2020-02-22 16:32:14,925 ad-dp-active: INFO  -- info                                               -- Windows 7 |  
+2020-02-22 16:35:07,899 ad-dp-active: ERROR -- error                                              -- Windows 7 |  
+2020-02-22 16:35:38,219 ad-dp-active: ERROR -- error                                              -- Windows 7 |  
+2020-02-22 16:54:22,181 springannotation: INFO  -- info                                               -- 创建bili |
+2020-02-22 16:54:22,181 springannotation: INFO  -- info                                               -- 创建bili |
+2020-02-22 16:55:52,279 springannotation: INFO  -- info                                               -- 创建bili |
+2020-02-22 16:55:52,279 springannotation: INFO  -- info                                               -- 创建bili |
+2020-02-22 16:56:53,337 springannotation: INFO  -- info  -- 创建bili |
+2020-02-22 16:56:53,337 springannotation: INFO  -- info  -- 创建bili |
+2020-02-22 16:57:08,466 springannotation: INFO  -- info  -- 创建bili2020-02-22 16:57:08,466 springannotation: INFO  -- info  -- 创建bili2020-02-22 16:57:22,729 springannotation: INFO  -- info  -- 创建bili |
+2020-02-22 16:57:22,729 springannotation: INFO  -- info  -- 创建bili |
+2020-02-22 17:16:36,544 springannotation: INFO  -- info  -- dog |
+2020-02-22 17:16:36,544 springannotation: INFO  -- info  -- dog |
+2020-02-22 17:17:40,277 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:17:40,277 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:19:04,985 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:23:12,132 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:28:51,321 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:28:51,326 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:28:51,327 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:31:30,816 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:31:30,821 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:31:30,822 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:32:00,728 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:32:00,744 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:32:00,750 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 17:32:00,752 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 17:32:00,753 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 17:32:00,758 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 17:32:00,759 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 17:32:00,761 springannotation: INFO  --info   |  scopeApp  |
+2020-02-22 17:32:00,762 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:32:29,146 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:32:29,174 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 17:32:29,175 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 17:32:29,175 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 17:32:29,175 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 17:32:29,175 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 17:32:29,175 springannotation: INFO  --info   |  scopeApp  |
+2020-02-22 17:32:29,175 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:32:58,258 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:33:11,398 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:33:11,403 springannotation: INFO  --info   |  创建第二个dog  |
+2020-02-22 17:33:28,469 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:33:28,485 springannotation: INFO  --info   |  创建第二个dog  |
+2020-02-22 17:33:28,571 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 17:33:28,571 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 17:33:28,572 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 17:33:28,573 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 17:33:28,573 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 17:33:28,574 springannotation: INFO  --info   |  scopeApp  |
+2020-02-22 17:33:28,574 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:33:28,575 springannotation: INFO  --info   |  dog1  |
+2020-02-22 17:34:22,048 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:34:22,053 springannotation: INFO  --info   |  创建第二个dog  |
+2020-02-22 17:34:22,080 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 17:34:22,081 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 17:34:22,081 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 17:34:22,081 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 17:34:22,081 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 17:34:22,081 springannotation: INFO  --info   |  scopeApp  |
+2020-02-22 17:34:22,081 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:34:22,081 springannotation: INFO  --info   |  dog1  |
+2020-02-22 17:34:35,808 springannotation: INFO  --info   |  创建一个dog  |
+2020-02-22 17:34:35,839 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 17:34:35,840 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 17:34:35,840 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 17:34:35,840 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 17:34:35,840 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 17:34:35,840 springannotation: INFO  --info   |  scopeApp  |
+2020-02-22 17:34:35,841 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:34:35,841 springannotation: INFO  --info   |  dog1  |
+2020-02-22 17:34:46,173 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 17:34:46,178 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 17:34:46,178 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 17:34:46,178 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 17:34:46,178 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 17:34:46,178 springannotation: INFO  --info   |  scopeApp  |
+2020-02-22 17:34:46,179 springannotation: INFO  --info   |  dog  |
+2020-02-22 17:34:46,179 springannotation: INFO  --info   |  dog1  |
+2020-02-22 17:45:38,592 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 17:45:38,594 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 17:45:38,595 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 17:45:38,595 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 17:45:38,595 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 17:45:38,595 springannotation: INFO  --info   |  importApp  |
+2020-02-22 17:45:38,595 springannotation: INFO  --info   |  importbean.beans.Color  |
+2020-02-22 17:45:38,595 springannotation: INFO  --info   |  importbean.select.Red  |
+2020-02-22 17:45:38,595 springannotation: INFO  --info   |  importbean.select.Yellow  |
+2020-02-22 18:17:35,402 springannotation: INFO  --info   |  org.springframework.core.type.classreading.SimpleAnnotationMetadata@1d76aeea  |
+2020-02-22 18:17:35,406 springannotation: INFO  --info   |  org.springframework.beans.factory.support.DefaultListableBeanFactory@25359ed8: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,importApp,importbean.beans.Color,importbean.select.Red,importbean.select.Yellow]; root of factory hierarchy  |
+2020-02-22 18:17:35,563 springannotation: INFO  --info   |  创建color  |
+2020-02-22 18:17:35,594 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 18:17:35,594 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 18:17:35,594 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 18:17:35,594 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 18:17:35,595 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 18:17:35,595 springannotation: INFO  --info   |  importApp  |
+2020-02-22 18:17:35,595 springannotation: INFO  --info   |  importbean.beans.Color  |
+2020-02-22 18:17:35,596 springannotation: INFO  --info   |  importbean.select.Red  |
+2020-02-22 18:17:35,596 springannotation: INFO  --info   |  importbean.select.Yellow  |
+2020-02-22 18:18:46,492 springannotation: INFO  --info   |  org.springframework.core.type.classreading.SimpleAnnotationMetadata@1d76aeea  |
+2020-02-22 18:18:46,496 springannotation: INFO  --info   |  org.springframework.beans.factory.support.DefaultListableBeanFactory@25359ed8: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,importApp,importbean.beans.Color,importbean.select.Red,importbean.select.Yellow]; root of factory hierarchy  |
+2020-02-22 18:18:46,656 springannotation: INFO  --info   |  创建color  |
+2020-02-22 18:18:46,657 springannotation: INFO  --info   |  创建red  |
+2020-02-22 18:18:46,658 springannotation: INFO  --info   |  创建Yellow  |
+2020-02-22 18:23:05,645 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 18:23:05,649 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 18:23:05,649 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 18:23:05,649 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 18:23:05,649 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 18:23:05,649 springannotation: INFO  --info   |  scopeApp  |
+2020-02-22 18:23:05,649 springannotation: INFO  --info   |  dog  |
+2020-02-22 18:23:05,649 springannotation: INFO  --info   |  dog1  |
+2020-02-22 20:42:49,136 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 20:42:49,143 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 20:42:49,143 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 20:42:49,144 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 20:42:49,144 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 20:42:49,144 springannotation: INFO  --info   |  scopeApp  |
+2020-02-22 20:42:49,144 springannotation: INFO  --info   |  dog  |
+2020-02-22 20:42:49,144 springannotation: INFO  --info   |  dog1  |
+2020-02-22 20:43:46,142 springannotation: INFO  --info   |  register beandefination rainball   |
+2020-02-22 20:43:46,423 springannotation: INFO  --info   |  创建color  |
+2020-02-22 20:43:46,424 springannotation: INFO  --info   |  创建red  |
+2020-02-22 20:43:46,425 springannotation: INFO  --info   |  创建Yellow  |
+2020-02-22 20:43:46,426 springannotation: INFO  --info   |  创建rowball  |
+2020-02-22 20:43:46,458 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 20:43:46,458 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 20:43:46,459 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 20:43:46,459 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 20:43:46,459 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 20:43:46,459 springannotation: INFO  --info   |  configurationBean  |
+2020-02-22 20:43:46,459 springannotation: INFO  --info   |  importbean.beans.Color  |
+2020-02-22 20:43:46,459 springannotation: INFO  --info   |  importbean.select.Red  |
+2020-02-22 20:43:46,459 springannotation: INFO  --info   |  importbean.select.Yellow  |
+2020-02-22 20:43:46,460 springannotation: INFO  --info   |  rainball  |
+2020-02-22 20:47:12,004 springannotation: INFO  --info   |  register beandefination rainball   |
+2020-02-22 20:47:12,223 springannotation: INFO  --info   |  创建color  |
+2020-02-22 20:47:12,225 springannotation: INFO  --info   |  创建red  |
+2020-02-22 20:47:12,226 springannotation: INFO  --info   |  创建Yellow  |
+2020-02-22 20:47:12,261 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 20:47:12,261 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 20:47:12,261 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 20:47:12,262 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 20:47:12,262 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 20:47:12,262 springannotation: INFO  --info   |  configurationBean  |
+2020-02-22 20:47:12,262 springannotation: INFO  --info   |  importbean.beans.Color  |
+2020-02-22 20:47:12,262 springannotation: INFO  --info   |  importbean.select.Red  |
+2020-02-22 20:47:12,262 springannotation: INFO  --info   |  importbean.select.Yellow  |
+2020-02-22 20:47:12,263 springannotation: INFO  --info   |  rainball  |
+2020-02-22 20:49:04,324 springannotation: INFO  --info   |  register beandefination rainball   |
+2020-02-22 20:49:04,692 springannotation: INFO  --info   |  创建color  |
+2020-02-22 20:49:04,694 springannotation: INFO  --info   |  创建red  |
+2020-02-22 20:49:04,695 springannotation: INFO  --info   |  创建Yellow  |
+2020-02-22 20:49:04,817 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 20:49:04,817 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 20:49:04,818 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 20:49:04,818 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 20:49:04,818 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 20:49:04,818 springannotation: INFO  --info   |  configurationBean  |
+2020-02-22 20:49:04,819 springannotation: INFO  --info   |  importbean.beans.Color  |
+2020-02-22 20:49:04,819 springannotation: INFO  --info   |  importbean.select.Red  |
+2020-02-22 20:49:04,819 springannotation: INFO  --info   |  importbean.select.Yellow  |
+2020-02-22 20:49:04,819 springannotation: INFO  --info   |  rainball  |
+2020-02-22 20:49:20,864 springannotation: INFO  --info   |  register beandefination rainball   |
+2020-02-22 20:49:21,121 springannotation: INFO  --info   |  创建color  |
+2020-02-22 20:49:21,122 springannotation: INFO  --info   |  创建red  |
+2020-02-22 20:49:21,123 springannotation: INFO  --info   |  创建Yellow  |
+2020-02-22 20:49:21,155 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 20:49:21,156 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 20:49:21,156 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 20:49:21,156 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 20:49:21,156 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 20:49:21,156 springannotation: INFO  --info   |  configurationBean  |
+2020-02-22 20:49:21,156 springannotation: INFO  --info   |  importbean.beans.Color  |
+2020-02-22 20:49:21,157 springannotation: INFO  --info   |  importbean.select.Red  |
+2020-02-22 20:49:21,157 springannotation: INFO  --info   |  importbean.select.Yellow  |
+2020-02-22 20:49:21,157 springannotation: INFO  --info   |  rainball  |
+2020-02-22 20:49:53,995 springannotation: INFO  --info   |  register beandefination rainball   |
+2020-02-22 20:49:54,637 springannotation: INFO  --info   |  创建color  |
+2020-02-22 20:49:54,640 springannotation: INFO  --info   |  创建red  |
+2020-02-22 20:49:54,643 springannotation: INFO  --info   |  创建Yellow  |
+2020-02-22 20:49:54,731 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 20:49:54,731 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 20:49:54,732 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 20:49:54,732 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 20:49:54,732 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 20:49:54,732 springannotation: INFO  --info   |  configurationBean  |
+2020-02-22 20:49:54,733 springannotation: INFO  --info   |  importbean.beans.Color  |
+2020-02-22 20:49:54,736 springannotation: INFO  --info   |  importbean.select.Red  |
+2020-02-22 20:49:54,739 springannotation: INFO  --info   |  importbean.select.Yellow  |
+2020-02-22 20:49:54,739 springannotation: INFO  --info   |  rainball  |
+2020-02-22 20:50:08,245 springannotation: INFO  --info   |  register beandefination rainball   |
+2020-02-22 20:50:08,546 springannotation: INFO  --info   |  创建color  |
+2020-02-22 20:50:08,547 springannotation: INFO  --info   |  创建red  |
+2020-02-22 20:50:08,549 springannotation: INFO  --info   |  创建Yellow  |
+2020-02-22 20:50:08,550 springannotation: INFO  --info   |  创建rowball  |
+2020-02-22 20:50:08,614 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 20:50:08,614 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 20:50:08,614 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 20:50:08,614 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 20:50:08,614 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 20:50:08,614 springannotation: INFO  --info   |  configurationBean  |
+2020-02-22 20:50:08,615 springannotation: INFO  --info   |  importbean.beans.Color  |
+2020-02-22 20:50:08,615 springannotation: INFO  --info   |  importbean.select.Red  |
+2020-02-22 20:50:08,615 springannotation: INFO  --info   |  importbean.select.Yellow  |
+2020-02-22 20:50:08,615 springannotation: INFO  --info   |  rainball  |
+2020-02-22 20:50:27,442 springannotation: INFO  --info   |  register beandefination rainball   |
+2020-02-22 20:50:27,777 springannotation: INFO  --info   |  创建color  |
+2020-02-22 20:50:27,778 springannotation: INFO  --info   |  创建red  |
+2020-02-22 20:50:27,779 springannotation: INFO  --info   |  创建Yellow  |
+2020-02-22 20:50:27,830 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 20:50:27,831 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 20:50:27,831 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 20:50:27,831 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 20:50:27,832 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 20:50:27,832 springannotation: INFO  --info   |  configurationBean  |
+2020-02-22 20:50:27,832 springannotation: INFO  --info   |  importbean.beans.Color  |
+2020-02-22 20:50:27,832 springannotation: INFO  --info   |  importbean.select.Red  |
+2020-02-22 20:50:27,832 springannotation: INFO  --info   |  importbean.select.Yellow  |
+2020-02-22 20:50:27,833 springannotation: INFO  --info   |  rainball  |
+2020-02-22 21:07:27,236 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:07:27,253 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:07:27,253 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:07:27,255 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:07:27,255 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:07:27,255 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:07:27,255 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:09:18,887 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:09:18,894 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:09:18,894 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:09:18,894 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:09:18,895 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:09:18,895 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:09:18,895 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:09:18,895 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:10:21,448 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:10:21,457 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:10:21,458 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:10:21,458 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:10:21,458 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:10:21,458 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:10:21,459 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:10:21,459 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:10:21,460 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:15:57,617 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:15:57,643 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:15:57,643 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:15:57,644 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:15:57,644 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:15:57,645 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:15:57,646 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:15:57,650 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:15:57,652 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:15:57,653 springannotation: INFO  --info   |  null  |
+2020-02-22 21:16:47,601 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:16:47,614 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:16:47,614 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:16:47,615 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:16:47,615 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:16:47,616 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:16:47,616 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:16:47,617 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:16:47,618 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:18:02,047 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:18:02,060 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:18:02,061 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:18:02,061 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:18:02,061 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:18:02,061 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:18:02,061 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:18:02,061 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:18:02,062 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:20:51,882 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:20:51,889 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:20:51,890 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:20:51,890 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:20:51,890 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:20:51,890 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:20:51,890 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:20:51,891 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:20:51,891 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:35:26,508 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:35:26,526 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:35:26,527 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:35:26,528 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:35:26,529 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:35:26,530 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:35:26,531 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:35:26,533 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:35:26,534 springannotation: INFO  --info   |  是否是单例：false  |
+2020-02-22 21:35:45,860 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:35:45,866 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:35:45,867 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:35:45,867 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:35:45,867 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:35:45,867 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:35:45,867 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:35:45,868 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:35:45,868 springannotation: INFO  --info   |  是否是单例：true  |
+2020-02-22 21:36:30,179 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:36:30,186 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:36:30,186 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:36:30,186 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:36:30,186 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:36:30,187 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:36:30,187 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:36:30,221 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:36:30,222 springannotation: INFO  --info   |  是否是单例：true  |
+2020-02-22 21:40:00,284 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:40:00,291 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:40:00,291 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:40:00,291 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:40:00,291 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:40:00,292 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:40:00,292 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:40:00,355 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:40:00,356 springannotation: INFO  --info   |  是否是单例：true  |
+2020-02-22 21:40:34,400 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:40:34,410 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:40:34,411 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:40:34,411 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:40:34,411 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:40:34,411 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:40:34,412 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:40:34,468 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:40:34,469 springannotation: INFO  --info   |  是否是单例：false  |
+2020-02-22 21:43:54,576 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:43:54,586 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:43:54,586 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:43:54,587 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:43:54,587 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:43:54,587 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:43:54,587 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:43:54,588 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:43:54,589 springannotation: INFO  --info   |  是否是单例：true  |
+2020-02-22 21:48:11,449 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:48:11,456 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:48:11,456 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:48:11,456 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:48:11,456 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:48:11,456 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:48:11,456 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:52:46,216 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:52:46,234 springannotation: INFO  --info   |  是否是单例：true  |
+2020-02-22 21:55:08,211 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 21:55:08,220 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 21:55:08,220 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 21:55:08,220 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 21:55:08,220 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 21:55:08,221 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 21:55:08,221 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 21:55:08,221 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 21:55:08,222 springannotation: INFO  --info   |  是否是单例：true  |
+2020-02-22 22:00:36,795 springannotation: INFO  --info   |  org.springframework.context.annotation.internalConfigurationAnnotationProcessor  |
+2020-02-22 22:00:36,803 springannotation: INFO  --info   |  org.springframework.context.annotation.internalAutowiredAnnotationProcessor  |
+2020-02-22 22:00:36,803 springannotation: INFO  --info   |  org.springframework.context.annotation.internalCommonAnnotationProcessor  |
+2020-02-22 22:00:36,803 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerProcessor  |
+2020-02-22 22:00:36,803 springannotation: INFO  --info   |  org.springframework.context.event.internalEventListenerFactory  |
+2020-02-22 22:00:36,803 springannotation: INFO  --info   |  factoryBeanConfig  |
+2020-02-22 22:00:36,803 springannotation: INFO  --info   |  moneyFactoryBean  |
+2020-02-22 22:00:36,804 springannotation: INFO  --info   |  moneyFactory的类型：class factoryBean.MoneyFactoryBean$Money  |
+2020-02-22 22:00:36,804 springannotation: INFO  --info   |  是否是单例：true  |

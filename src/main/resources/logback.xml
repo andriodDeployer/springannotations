@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="false">
+    <property name="RSYSLOG_PORT" value="9516"/>
+    <property name="RSYSLOG_HOST" value="172.18.20.16"/>
+    <property name="LOG_HOME" value="D:\\workRequire\\workspace\\ideaWorkSpace\\springannotations"/>
+
+    <property name="MSG_PATTERN" value="%d{ISO8601} -- %X{request-id} | %msg  %n"/>
+    <property name="NORMAL_PATTERN" value="%d{ISO8601} springannotation: %-5level --%-5logger  |  %msg  |%n"/>
+    <property name="SERIOUS_PATTERN" value="%d{ISO8601} [%-16.16thread] cc: %-5level -- %-60.60class [%4line] -- %msg | %X{request-id} %n" />
+
+    <timestamp key="byDay" datePattern="yyyyMMdd"/>
+    <timestamp key="bySecond" datePattern="yyyyMMdd'T'HHmmss"/>
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>INFO</level>
+        </filter>
+        <encoder>
+            <pattern>${NORMAL_PATTERN}</pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+    </appender>
+    <appender name="DEBUG" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>DEBUG</level>
+        </filter>
+        <file>${LOG_HOME}/debug.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_HOME}/debug.%d{yyyyMMdd}.log.gz</fileNamePattern>
+            <MaxHistory>7</MaxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${SERIOUS_PATTERN}</pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+    </appender>
+
+    <appender name="INFO" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>INFO</level>
+            <onMatch>ACCEPT</onMatch><!-- 只显示info级别的，其他级别的，比他高的不显示，正常情况下，级别比他高的会显示的-->
+            <onMismatch>DENY</onMismatch>
+        </filter>
+        <file>${LOG_HOME}/info.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_HOME}/info.%d{yyyyMMdd}.log.gz</fileNamePattern>
+            <MaxHistory>7</MaxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${NORMAL_PATTERN}</pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+    </appender>
+    <!-- special level -->
+    <appender name="ERROR" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>WARN</level>
+        </filter>
+        <file>${LOG_HOME}/error.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_HOME}/error.%d{yyyyMMdd}.log.gz</fileNamePattern>
+            <MaxHistory>7</MaxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${SERIOUS_PATTERN}</pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+    </appender>
+
+    <!-- 记录详细接口调用日志 begin -->
+    <appender name="api_log" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_HOME}/stat/current/api.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_HOME}/stat/history/api.%d{yyyyMMdd}.log.gz</fileNamePattern>
+            <MaxHistory>7</MaxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${MSG_PATTERN}</pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+    </appender>
+
+
+
+
+
+
+    <logger name="api" level="INFO" additivity="false">
+        <appender-ref ref="async_api_log"/>
+    </logger>
+
+    <logger name="business" level="INFO" additivity="false">
+        <appender-ref ref="async_business_log"/>
+    </logger>
+
+    <logger name="org.quartz" level="ERROR">
+        <appender-ref ref="ERROR"/>
+    </logger>
+
+    <logger name="info" level="INFO">
+        <appender-ref ref= "INFO"/>
+        <appender-ref ref="STDOUT"/>
+    </logger>
+
+    <logger name="error" level="ERROR">
+        <appender-ref ref="ERROR"/>
+        <appender-ref ref="STDOUT"/>
+    </logger>
+
+    
+<!--    <root level="INFO">-->
+<!--        <appender-ref ref="STDOUT"/>-->
+<!--        <appender-ref ref="INFO"/>-->
+<!--        &lt;!&ndash; APP_ERROR: WARN ERROR OFF &ndash;&gt;-->
+<!--        <appender-ref ref="ERROR"/>-->
+<!--    </root>-->
+</configuration>
